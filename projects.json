@@ -1,0 +1,316 @@
+[
+    {
+    "id": "kista",
+    "title": "When you put on the costume I know I love you. When you don't put on the costume I know I needed to break up with you.",
+    "year": "2026",
+    "description": "A video installation.",
+
+    "thumbnail": {
+      "type": "video",
+      "src": "media/kista/draumar_bangsa.mov"
+    },
+
+    "media": [
+      {
+        "type": "video",
+        "src": "media/kista/draumar_bangsa.mov",
+        "caption": "Installation footage"
+      },
+      {
+        "type": "collection",
+        "title": "Portraits of characters born from play.",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/bangsi.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/hundur.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/kall.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/kona.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/lessa.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/motorhjolaprins.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/nunchacku.JPG"
+          },
+          {
+            "type": "image",
+            "src": "media/kista/karaktermyndir/skrimsli.JPG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rocky",
+    "title": "Rocky",
+    "year": "2026",
+    "description": "A video installation.",
+
+    "thumbnail": {
+      "type": "video",
+      "src": "media/rocky/rocky.mp4"
+    },
+
+    "media": [
+      {
+        "type": "video",
+        "src": "media/rocky/rocky.mp4",
+        "caption": "Installation footage"
+      },
+      {
+        "type": "video",
+        "src": "media/rocky/silly.mov",
+        "caption": "Installation footage"
+      },
+
+      {
+        "type": "collection",
+        "title": "Video installation in Naflinn, gallery space  at The Iceland University of the Arts",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i8.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i7.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i1.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i2.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i3.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i4.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i5.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/rocky_install/i6.jpg"
+          }
+        ]
+      },
+      {
+        "type": "collection",
+        "title": "Behind the scenes photos",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts1.png"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts2.png"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts3.png"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts4.png"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts5.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts6.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts7.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts8.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts9.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts10.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts11.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/rocky/bts/bts12.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oilselfie",
+    "title": "Oil Selfie",
+    "year": "2026",
+    "description": "A series of self portraits in oil painted from aggressive flash selfies. The pictures are scrambled, glitched and remixed through various apps. This method of image processing was for a long time before the powers of hormone replacement therapy a portal to witnessing myself as I wanted to reach be it genderswap filters or messing with the image till I recognized myself.",
+
+    "thumbnail": {
+      "type": "image",
+      "src": "media/oilselfie/p3/details/d3.jpg"
+    },
+
+    "media": [
+      {
+        "type": "image",
+        "src": "media/oilselfie/group/cover.jpg"
+      },
+      {
+        "type": "image",
+        "src": "media/oilselfie/p1/cover.jpg"
+      },
+      {
+        "type": "collection",
+        "title": "Part 1",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts1.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts2.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts3.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts4.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts5.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p1/bts/bts6.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "src": "media/oilselfie/p2/cover.jpg"
+      },
+      {
+        "type": "collection",
+        "title": "Part 2",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/oilselfie/p2/bts/bts1.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p2/bts/bts2.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "collection",
+        "title": "details",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/oilselfie/p2/details/d1.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p2/details/d3.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p2/details/d2.jpg"
+          }
+        ]
+      },
+           {
+        "type": "image",
+        "src": "media/oilselfie/p3/cover.jpg"
+      },
+      {
+        "type": "collection",
+        "title": "Part 3 bts",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/bts/bts1.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/bts/bts2.jpeg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/bts/bts3.png"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/bts/bts4.png"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/bts/bts5.jpeg"
+          }
+        ]
+      },
+      {
+        "type": "collection",
+        "title": "Part 3 details",
+        "content": [
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/details/d1.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/details/d2.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/details/d3.jpg"
+          },
+          {
+            "type": "image",
+            "src": "media/oilselfie/p3/details/d4.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
